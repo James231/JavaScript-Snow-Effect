@@ -1,0 +1,23 @@
+/*
+-------------------------------------------------------------------------------------------------
+JavaScript Snow Effect - © Copyright 2020 - Jam-Es.com
+Licensed under the MIT License (MIT). See LICENSE in the repo root for license information.
+-------------------------------------------------------------------------------------------------
+*/
+
+body,html {
+	margin: 0;
+	padding: 0;
+}
+
+.hide-overflow {
+	overflow: hidden;
+	height: 100vh;
+	width: 100vw;
+}
+
+canvas {
+	background-color: #005D55;
+	height: 100vh;
+	width: 100vw;
+}
